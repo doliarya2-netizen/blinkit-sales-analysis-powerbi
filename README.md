@@ -14,7 +14,7 @@ Interactive Power BI dashboard for analyzing Blinkit sales performance.
 
 ## Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Key Analysis
 
